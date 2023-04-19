@@ -1,0 +1,11 @@
+.feedback {
+	width: 500px;
+	border: 1px solid black;
+	margin: auto;
+	
+	&__button_list {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 20px;
+	}
+}
